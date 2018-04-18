@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "163084928574",
+    "firebase_url": "https://wifichuaandroid.firebaseio.com",
+    "project_id": "wifichuaandroid",
+    "storage_bucket": "wifichuaandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163084928574:android:0d67aff4412356e1",
+        "android_client_info": {
+          "package_name": "com.android.nvtrong.wifichuaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163084928574-ssr1rnirkligs4uc7d9qvt0vpgcdgs0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.nvtrong.wifichuaandroid",
+            "certificate_hash": "effd7e0130df077ca81dbc28610e1f29c5478ab3"
+          }
+        },
+        {
+          "client_id": "163084928574-jdgdpa62untb8a0bbhmmrdqfa5euhce8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHDvlb0aesDgQtP3aHIRO49S8SpePUQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163084928574-jdgdpa62untb8a0bbhmmrdqfa5euhce8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163084928574:android:2009ed7020e44565",
+        "android_client_info": {
+          "package_name": "com.android.nvtrong.wifichuakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163084928574-eind6oocdc3fuk5tnbok5ac8m7454aei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.nvtrong.wifichuakotlin",
+            "certificate_hash": "effd7e0130df077ca81dbc28610e1f29c5478ab3"
+          }
+        },
+        {
+          "client_id": "163084928574-jdgdpa62untb8a0bbhmmrdqfa5euhce8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHDvlb0aesDgQtP3aHIRO49S8SpePUQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163084928574-jdgdpa62untb8a0bbhmmrdqfa5euhce8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
