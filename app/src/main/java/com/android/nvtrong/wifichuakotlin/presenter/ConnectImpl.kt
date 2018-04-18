@@ -21,7 +21,7 @@ class ConnectImpl() : InteractorConnect {
             override fun onChildAdded(p0: DataSnapshot, p1: String?) {
                 var wifiStation: WifiStation = p0.getValue(WifiStation::class.java)!!
                 Log.d("FIRE_BASE", wifiStation.toString())
-                if (ssid.equals(wifiStation.ssid, true)) {
+                if (ssid.equals(wifiStation.ssid, true) && !isConnect) {
                     connectWifi(wifiStation.ssid!!, wifiStation.password!!, wifi, onConnectFinishListener)
                 }
             }
